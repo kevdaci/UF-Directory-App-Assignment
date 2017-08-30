@@ -1,0 +1,105 @@
+@font-face{
+	font-family: "Modern Pics";
+	src: url("modernpics.ttf");
+}
+
+
+body{
+	background-color: #dd661e;
+}
+
+.top-bar{
+	background-color: #00529b;
+	text-align: center;
+	font-family: "Baloo Bhaijaan";
+	color: white;
+	margin-bottom: 20px;
+}
+
+#searchBar {
+  margin: 15px 10px;
+}
+
+.customize-input{
+	border: 3px solid #00529b;
+	color: #00529b;
+	font-family: "Baloo Bhaijaan";
+}
+
+.custom-search-button{
+	background-color: #dd661e;
+	border: 3px solid #00529b;
+	border-right-width: 1.5px;
+	color: white;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+.custom-table{
+	background-color: #00529b;
+	border: 0px;
+	color: white;
+}
+
+.first-row td{
+	font-family:"Baloo Bhaijaan";
+	font-weight: light;
+	font-size: 15px;
+}
+
+.other-rows{
+	font-weight: bold;
+}
+
+.other-rows:hover, .btn-background:hover{
+	background-color: #4d86b4;
+	color: white;
+}
+
+.delete-button{
+	background-color: #dd661e; 
+	border: 1px solid;
+	text-align: center;
+	font-family: "Modern Pics";
+	font-size: 15px;
+}
+
+.delete-button:hover{
+	background-color: #f37021;
+}
+
+.delete-button:active{
+	background-color:  #cf601c;
+}
+
+.custom-form{
+	margin-top: 15px;
+}
+
+.btn-background{
+	background-color: #00529b;
+	color: white;
+	font-family: "Baloo Bhaijaan";
+
+}
+
+.btn-background: enabled{
+	color: white;
+}
+
+.detailed-style{
+	margin-top: 15px;
+	padding-left: 10px;
+	background-color: #00529b;
+	color: white;
+	font-family: "Baloo Bhaijaan";
+	font-size: 15px;
+}
+
+h4.class-light{
+	font-weight: light;
+}
+
