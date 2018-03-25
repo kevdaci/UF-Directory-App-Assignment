@@ -1,4 +1,4 @@
-# UF-Directory-App-Assignment
+# UF-Directory-App-Assignment-2
 My submission for CEN3035 Bootcamp Assignment #2.
 
 I want to give credit to these two webpages from the University of Florida website that influence me to style my UF Directory App.
